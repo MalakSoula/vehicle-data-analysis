@@ -33,3 +33,13 @@ The project uses Python 3 and the following libraries:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MalakSoula/vehicle-data-analysis.git
+   
+2. Navigate to the project directory:
+
+        cd vehicle-data-analysis
+   
+
+# Conclusion
+
+This project provides valuable insights into vehicle pricing and characteristics, offering trends and relationships in the data that can aid in decision-making and further analysis. Feel free to explore the code and reach out if you have any questions or suggestions!
+
